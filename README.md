@@ -7,6 +7,8 @@ estoy iniciando mi cuenta para trabajar con colab a travez de ejemplos de tercer
 1.- Eje1GitHubUpload.ipynb
 
 // Este ejemplo lee un archivo CSV localizado en github mediante un programa en Colab de google.
+
+
 // Se requiere una cuenta en github y otra en colab
 
 
