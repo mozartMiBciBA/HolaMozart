@@ -14,4 +14,4 @@ estoy iniciando mi cuenta para trabajar con colab a travez de ejemplos de tercer
 
 
 2.- Ej2ProcesamientoImagen.py
-# Este ejemplo permite leer imagenes de una carpeta con formato zip
+// Este ejemplo permite leer imagenes de una carpeta con formato zip
