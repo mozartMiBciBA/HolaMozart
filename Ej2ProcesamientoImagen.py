@@ -7,6 +7,7 @@ data = zipfile.ZipFile('pandas-tigres.zip','r')
 data.extractall()
 
 #Hacer gráficas de pixeles
+#Referencia: https://www.youtube.com/watch?v=fJvAgRTH488&list=PLgHCrivozIb0Yx_nMno1HgIkJIpKbADU6&index=2
 
 #Se instala cv2
 #(C:\Users\Mozart\Anaconda3) C:\Users\Mozart>pip install opencv-python
