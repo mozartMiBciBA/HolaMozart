@@ -16,3 +16,8 @@ estoy iniciando mi cuenta para trabajar con colab a travez de ejemplos de tercer
 2.- Ej2ProcesamientoImagen.py
 
 // Este ejemplo permite leer imagenes de una carpeta con formato zip
+
+
+3.- Ej3Clasificación de imagenes 2 etiquetas (panda y tigre), Keras y Tensor Flow.
+ 
+// Este ejemplo 
