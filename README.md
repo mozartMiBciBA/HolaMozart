@@ -18,6 +18,7 @@ estoy iniciando mi cuenta para trabajar con colab a travez de ejemplos de tercer
 // Este ejemplo permite leer imagenes de una carpeta con formato zip
 
 
-3.- Ej3Clasificación de imagenes 2 etiquetas (panda y tigre), Keras y Tensor Flow.
+3.- Ej3 Subir imagenes a colab.
  
-// Este ejemplo 
+// Este ejemplo permite subir imagenes a colab
+
