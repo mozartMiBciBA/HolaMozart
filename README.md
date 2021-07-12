@@ -22,3 +22,7 @@ estoy iniciando mi cuenta para trabajar con colab a travez de ejemplos de tercer
  
 // Este ejemplo permite subir imagenes a colab
 
+4.- Ej4_ClasificarImagenas_2Etiquetas_Keras_Tf.ipynb
+
+// Este ejemplo permite clasificar 2 imagenes diferentes (tigre y panda)
+
