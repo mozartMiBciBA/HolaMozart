@@ -26,7 +26,7 @@ estoy iniciando mi cuenta para trabajar con colab a travez de ejemplos de tercer
 
 // Este ejemplo permite clasificar 2 imagenes diferentes (tigre y panda)
 
-5.- 5_Taller_VC_UV_DIA_.ipynb
+5.- 5_Taller_VisionC_UV_DIA_.ipynb
 
 
 Este ejemplo permite
